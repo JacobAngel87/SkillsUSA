@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFgzZ9sV5nDSSvut4CSTjNeWV25usH11j0idIBRxTnH8F+oCubkNFIuRQSYqOXn/zxDOSMNYz8mqJJJw1r8PjA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\SkillsUSA_JacobAngel_Task3\\SkillsUSA_JacobAngel_Task3\\SkillsUSA_JacobAngel_Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

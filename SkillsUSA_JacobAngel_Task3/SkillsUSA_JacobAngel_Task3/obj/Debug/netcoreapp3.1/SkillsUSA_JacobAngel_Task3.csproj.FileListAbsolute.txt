@@ -1,0 +1,26 @@
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.exe
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.deps.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.runtimeconfig.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.dll
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.pdb
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.AssemblyInfo.cs
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.dll
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.pdb
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.genruntimeconfig.cache
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.exe
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.deps.json
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.runtimeconfig.json
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.runtimeconfig.dev.json
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.dll
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.pdb
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.csprojAssemblyReference.cache
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.AssemblyInfo.cs
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.dll
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.pdb
+D:\Visual Studio Projects\SkillsUSA_JacobAngel_Task3\SkillsUSA_JacobAngel_Task3\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task3.genruntimeconfig.cache
