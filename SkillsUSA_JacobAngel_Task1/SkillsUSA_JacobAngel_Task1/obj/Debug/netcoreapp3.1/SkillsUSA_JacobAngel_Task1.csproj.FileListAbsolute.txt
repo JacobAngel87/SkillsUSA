@@ -1,0 +1,13 @@
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.exe
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.deps.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.runtimeconfig.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.dll
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\bin\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.pdb
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.AssemblyInfo.cs
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.dll
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.pdb
+C:\Users\jacob\source\repos\SkillsUSA_JacobAngel_Task1\SkillsUSA_JacobAngel_Task1\obj\Debug\netcoreapp3.1\SkillsUSA_JacobAngel_Task1.genruntimeconfig.cache
